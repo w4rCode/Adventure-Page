@@ -110,7 +110,7 @@ main{
     flex-direction: column;
     min-height: 65vh;
     width: 100%;
-    background-image: linear-gradient(rgba(27, 27, 29, 0.678), rgba(37, 32, 35, 0.158)), url(/images/banner.jpg) ;
+    background-image: linear-gradient(rgba(27, 27, 29, 0.678), rgba(37, 32, 35, 0.158)), url(./images/banner.jpg) ;
     background-position: center;
     background-size: cover;
     padding: 130px 10%;
