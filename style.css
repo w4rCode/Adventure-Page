@@ -320,7 +320,7 @@ padding-right: 2%;
     
 .box1 {
     position: relative;
-    background-image: linear-gradient(rgba(27, 27, 29, 0.678), rgba(37, 32, 35, 0.158)), url(/images/banner.jpg);
+    background-image: linear-gradient(rgba(27, 27, 29, 0.678), rgba(37, 32, 35, 0.158)), url(./images/banner.jpg);
     background-size: cover;
     height: 50vh;
     width: 70%;
