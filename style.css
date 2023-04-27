@@ -365,7 +365,7 @@ padding-right: 2%;
         cursor: pointer;
     }
     .box1:hover{
-        background-image: linear-gradient(rgba(27, 27, 29, 0.897), rgba(37, 32, 35, 0.562)),url(/images/banner.jpg);
+        background-image: linear-gradient(rgba(27, 27, 29, 0.897), rgba(37, 32, 35, 0.562)),url(./images/banner.jpg);
     }
     .box2:hover{
         background-image: linear-gradient(rgba(27, 27, 29, 0.849), rgba(37, 32, 35, 0.808)), url(./images/travel02.jpg);
